@@ -3,7 +3,7 @@ let ctx = canvas.getContext('2d');
 
 let x=[];
 let y=[];
-let num=10000;
+let num=000;
 for(i=0;i<num;i++){
     x.push(0)
     y.push(0)
